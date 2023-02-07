@@ -1,0 +1,11 @@
+16:05:12 **** Incremental Build of configuration Debug for project Interrupt ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "GPIO.elf"
+   text	   data	    bss	    dec	    hex	filename
+   2084	    108	   2076	   4268	   10ac	GPIO.elf
+Finished building: GPIO.siz
+ 
+
+16:05:12 Build Finished (took 306ms)
+

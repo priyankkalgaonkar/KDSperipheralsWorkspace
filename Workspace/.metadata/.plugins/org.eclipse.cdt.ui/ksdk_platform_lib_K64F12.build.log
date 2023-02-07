@@ -1,0 +1,6 @@
+15:28:30 **** Incremental Build of configuration debug for project ksdk_platform_lib_K64F12 ****
+make -k all 
+make: Nothing to be done for 'all'.
+
+15:28:31 Build Finished (took 1s.183ms)
+
